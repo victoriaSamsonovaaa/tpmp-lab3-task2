@@ -31,8 +31,8 @@ Your new action will run any time a pull request has been opened.
 
 ### :keyboard: Activity: Trigger the workflow
 
-1. Make a new branch named `test-workflow`.
-1. Commit any change to your branch, such as adding an emoji to your README.md file.  :)))))
+1. Make a new branch named `test-workflow`. :smile:_
+1. Commit any change to your branch, such as adding an emoji to your README.md file.  
 1. Create the pull request on your branch.
 1. See your action run on your pull request.
 1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
@@ -41,7 +41,7 @@ Your new action will run any time a pull request has been opened.
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  Add a link to get support, GitHub status page, code of conduct, license link. 
 -->
 
 ---
